@@ -1,0 +1,72 @@
+[
+ {
+  "k": 8738905,
+  "s": "Archaeopteryx siemensii",
+  "items": [
+   {
+    "title": "Archaeopteryx siemensii Dames",
+    "embed": "https://3d-api.si.edu/voyager/3d_package:391660da-7c49-499c-91f5-88a298686c09",
+    "access": "CC0",
+    "thumb": null,
+    "unit": "NMNHPALEO",
+    "record": "http://n2t.net/ark:/65665/307c332eb-3942-4cd5-976f-acfac28d648e"
+   }
+  ]
+ },
+ {
+  "k": 8658675,
+  "s": "Branta hylobadistes",
+  "items": [
+   {
+    "title": "Branta hylobadistes Olson & James, 1991",
+    "embed": "https://3d-api.si.edu/voyager/3d_package:a7a8ad60-7571-49ea-a94e-e0d29b890495",
+    "access": "CC0",
+    "thumb": null,
+    "unit": "NMNHPALEO",
+    "record": "http://n2t.net/ark:/65665/32931ef37-0159-49cb-bc04-f5ab1a11dccd"
+   }
+  ]
+ },
+ {
+  "k": 4966450,
+  "s": "Diatryma gigantea",
+  "items": [
+   {
+    "title": "Diatryma gigantea Cope",
+    "embed": "https://3d-api.si.edu/voyager/3d_package:865f99f0-3a50-4aeb-9051-9a23481aff93",
+    "access": "CC0",
+    "thumb": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3623c9b9b1c814ad3aa49e09c05d1076d/90",
+    "unit": "NMNHPALEO",
+    "record": "http://n2t.net/ark:/65665/30847a2d1-2b2b-4713-b86c-8ec790cc00aa"
+   }
+  ]
+ },
+ {
+  "k": 8452267,
+  "s": "Palaeocrex fax",
+  "items": [
+   {
+    "title": "Palaeocrex fax Wetmore",
+    "embed": "https://3d-api.si.edu/voyager/3d_package:b3e04615-b90a-44af-b7d1-3522bc385049",
+    "access": "CC0",
+    "thumb": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m3bcde726f2a0c41609abbacc2f71324b6/90",
+    "unit": "NMNHPALEO",
+    "record": "http://n2t.net/ark:/65665/3d8605aeb-4e79-4355-8cb9-7e6b5bf5a8f4"
+   }
+  ]
+ },
+ {
+  "k": 8674552,
+  "s": "Palaeogyps prodromus",
+  "items": [
+   {
+    "title": "Palaeogyps prodromus Wetmore",
+    "embed": "https://3d-api.si.edu/voyager/3d_package:068d2479-1cde-4102-b0df-264f6a7478d3",
+    "access": "CC0",
+    "thumb": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m38c7cb81d62934305acb3f4ecce36ef56/90",
+    "unit": "NMNHPALEO",
+    "record": "http://n2t.net/ark:/65665/3fc92185e-2acc-4d1c-9b73-20cefc980db3"
+   }
+  ]
+ }
+]

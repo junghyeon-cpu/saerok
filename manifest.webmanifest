@@ -1,0 +1,12 @@
+{
+  "name": "새록 — 세계 조류 도감",
+  "short_name": "새록",
+  "description": "전 세계 조류 전 종 도감. GBIF 분류, 위키백과 사진·설명, CC 3D 모델.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#146a52",
+  "icons": [
+    { "src": "icon.svg?v=3", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

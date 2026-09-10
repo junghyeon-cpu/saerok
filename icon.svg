@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="새록 아이콘">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34ad7d"/>
+      <stop offset="1" stop-color="#12654e"/>
+    </linearGradient>
+    <linearGradient id="belly" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd684"/>
+      <stop offset="1" stop-color="#f2994a"/>
+    </linearGradient>
+  </defs>
+  <!-- 배경 스퀘어클 -->
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="28" rx="17" fill="#ffffff" opacity="0.07"/>
+  <!-- 나뭇가지 + 다리 -->
+  <path d="M16 52 h32" stroke="#0e5741" stroke-width="2.6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M30 47 v5 M36 47 v5" stroke="#e79a44" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- 세운 꼬리 -->
+  <path d="M22 40 C17 34 15 26 17 21 C22 25 25 32 26 38 Z" fill="#eef2ee"/>
+  <path d="M20.5 36 C18.5 31 18 26 19 23 C21.5 26 23 31 23.5 35 Z" fill="#cfe0d6" opacity="0.8"/>
+  <!-- 통통한 몸통 + 머리 (하나의 둥근 형태) -->
+  <path d="M28 47
+           C20 47 18 38 22 32
+           C25 27 31 25 37 27
+           C43 29 46 35 44 41
+           C42 46 35 48 28 47 Z" fill="#f6f5f0"/>
+  <!-- 배 (따뜻한 포인트) -->
+  <path d="M29 46 C24 45 23 39 26 35 C29 32 34 33 35 38 C36 43 33 47 29 46 Z" fill="url(#belly)"/>
+  <!-- 날개 -->
+  <path d="M31 32 C36 31 41 33 43 37 C38 39 33 38 30 36 Z" fill="#dde7e0"/>
+  <!-- 부리 -->
+  <path d="M44 34 l7 1.5 l-6.5 3 Z" fill="#f2994a"/>
+  <!-- 눈 -->
+  <circle cx="40" cy="34" r="2" fill="#173a2f"/>
+  <circle cx="40.8" cy="33.3" r="0.6" fill="#ffffff"/>
+  <!-- 작은 잎 -->
+  <path d="M45 50 C47 47 51 47 53 48 C51 51 47 52 45 50 Z" fill="#8fd0ad" opacity="0.9"/>
+</svg>
