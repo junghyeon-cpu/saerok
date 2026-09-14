@@ -106,3 +106,22 @@ h2.pagetitle{margin:6px 0 2px;font-size:23px}
 .about table{border-collapse:collapse;width:100%;font-size:14px}
 .about td,.about th{border:1px solid var(--line);padding:7px 10px;text-align:left}
 button.more{margin:18px auto;display:block;background:var(--accent);color:var(--accent-ink);border:0;border-radius:8px;padding:9px 22px;font-size:14.5px;cursor:pointer}
+
+/* 멸종위기 등급 */
+.iucn{display:inline-block;font-size:11px;font-weight:700;border-radius:20px;padding:2px 9px;white-space:nowrap;letter-spacing:.2px}
+.iucn.big{font-size:13px;padding:4px 12px}
+/* 울음소리 */
+.sounds{display:flex;flex-direction:column;gap:12px}
+.sound audio{width:100%;max-width:520px;display:block}
+/* 관측된 나라 */
+.distchips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.distchip{font-size:13px;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:4px 11px}
+.distchip b{color:var(--muted);font-weight:500;font-size:12px;margin-left:3px}
+.distchip.weak{opacity:.45}
+/* 필터 · 내가 본 새 */
+.filters{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 12px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:20px;padding:6px 13px;font-size:13.5px;cursor:pointer}
+.filters button.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.seen{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:7px 13px;font-size:14px;cursor:pointer}
+.seen.on{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.badge.seenb{color:var(--accent);font-weight:700}
