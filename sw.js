@@ -1,7 +1,7 @@
 /* 네트워크 우선(network-first): 온라인이면 항상 최신을 받아 보여주고, 받은 것을 캐시에
  * 갱신해 둔다. 오프라인일 때만 캐시로 대체한다. → 갱신(이름·데이터)이 바로 반영된다.
  * 위키백과·Sketchfab 등 외부 요청은 건드리지 않는다. */
-const CACHE = "saerok-v11";
+const CACHE = "saerok-v12";
 const SHELL = ["./", "index.html", "style.css", "app.js", "icon.svg",
                "manifest.webmanifest", "data/species.json", "data/models3d.json",
                "data/morphosource.json", "data/smithsonian.json", "data/thumbs.json",
